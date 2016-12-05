@@ -1,0 +1,1 @@
+This repository is for the homeworks for mongodb course from DataGuru, started 2016.12.03
